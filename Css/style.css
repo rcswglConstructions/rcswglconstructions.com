@@ -1,0 +1,285 @@
+.plot h5 {
+	color: #403e72;
+	font-size: 18px;
+	padding-top: 17px;
+	padding-left: 39px;
+}
+body {
+ font-family: Roboto-Regular.woff2;
+	padding: 0;
+	margin: 0;
+}
+.header-top {
+	background: #403e72;
+	padding: 11px;
+}
+.navtop li {
+	float: left;
+	list-style: none;
+	font-size: 13px;
+	padding-right: 23px;
+}
+.navtop li a {
+	line-height: 29px;
+	color: #fff;
+}
+.nav-i {
+	font-size: 14px;
+	margin-right: 9px;
+}
+.logo {
+	padding: 5px;
+}
+/*.navbar-link ul {
+	float: right;
+}*/
+.navbar-link ul li {
+	list-style: none;
+	float: left;
+	padding-left: 63px;
+	line-height: 63px;
+}
+.navbar-link ul li a {
+    color: #000;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: 600;
+}
+.home {
+	color: #F63;
+}
+.topleft-links {
+	padding: 0;
+	margin: 0;
+	float: right;
+}
+.topleft-links li a {
+	color: #acacac;
+	padding-left: 0px;
+	font-weight: 900;
+	font-size: 12px;
+}
+.notification {
+	padding: 3px;
+	top: 18px;
+	height: 10px;
+	width: 10px;
+	border-radius: 50%;
+	text-align: center;
+	position: absolute;
+	background: #86c328;
+}
+.about-section {
+	min-height: 500px;
+	background: #f2f3f9;
+}
+.about-content h3:before {
+	content: '';
+	display: inline-block;
+	width: 2px;
+	height: 25px;
+	background: orangered;
+	margin-right: 10px;
+	position: relative;
+	top: 6px;
+}
+.about-content h3 {
+	font-size: 17px;
+	margin-bottom: 20px;
+}
+.about-content p {
+	font-size: 15px;
+}
+.readbtn {
+	background: #403e72;
+	color: #fff;
+}
+.featured {
+	text-align: center;
+	font-size: 16px;
+	color: #403e72;
+}
+.featured p {
+	text-align: center;
+	color: #947054;
+}
+.plot {
+	padding: 5px;
+	border: 1px solid #e1dddd;
+}
+.plot h5 {
+	color: #403e72;
+	font-size: 18px;
+	padding-top: 17px;
+	padding-left: 20px;
+}
+.plot h6 {
+	padding-left: 20px;
+	padding-top: 3px;
+	font-size: 13px;
+	color: #947054;
+}
+.plot-i {
+	color: #947054;
+	margin-right: 7px;
+	font-size: 18px;
+}
+.plot p {
+	text-align: left;
+	padding-left: 23px;
+	font-size: 14px;
+}
+.plot h3 {
+	text-align: center;
+}
+.view-i {
+	color: #ffffff;
+	font-size: 14px;
+	margin-right: 10px;
+}
+.offer {
+	background: #293461;
+	min-height: 500px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+#myCarousel1 {
+	padding-top: 91px;
+}
+.test-content h3 {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.offer h3 {
+	text-align: center;
+	color: #FFF;
+	font-size: 17px;
+}
+.offer h4 {
+	text-align: center;
+	color: #FFF;
+	font-size: 39px;
+}
+.about-heading p {
+	font-size: 13px;
+}
+.con-i {
+	color: #293461;
+	margin-right: 10px;
+	font-size: 16px;
+}
+.social-i li a {
+	color: #293461;
+}
+.offer p {
+	text-align: center;
+	color: #FFF;
+}
+footer {
+	background: #f1f4f8;
+	padding: 20px;
+}
+.footer-logo p {
+	font-size: 14px;
+	padding-top: 20px;
+	margin-bottom: 26px;
+}
+.about-heading h6 {
+	color: #000;
+}
+.about-heading h6:after {
+	content: '';
+	position: relative;
+	border-bottom: 1px dashed #7d8192;
+	display: inherit;
+	width: 222px;
+	margin-top: 11px;
+}
+/*.about-heading h6:before {
+	content: '';
+	display: inline-block;
+	width: 2px;
+	height: 25px;
+	background: orangered;
+	margin-right: 10px;
+	position: relative;
+	top: 6px;
+}*/
+.slider-main {
+	padding: 0;
+}
+.addres-m {
+	width: 100%;
+}
+.social-i {
+	padding: 0;
+}
+.social-i li {
+	list-style: none;
+	float: left;
+	padding-left: 0px;
+	padding-right: 10px;
+}
+.nav-set {
+	float: right;
+}
+.nav-set li {
+	list-style: none;
+	float: left;
+	padding-left: 10px;
+}
+.nav-set li a {
+	color: #FFF;
+	font-size: 13px;
+}
+.copy-right {
+	background: #d6d6d6;
+}
+.copy-right p {
+	color: #626590;
+	font-size: 14px;
+	padding-top: 11px;
+}
+.powered-by {
+	float: right;
+}
+.copy-content {
+	margin-top: 10px;
+}
+.powered-by p {
+	float: right;
+}
+.help-line {
+	padding: 0;
+}
+.home-contact {
+	background-color: #7d8192;
+	padding: 40px;
+}
+.home-contact small {
+	color: #fff;
+	font-size: 12px;
+	padding-left: 26px;
+}
+.home-contact h5 {
+	margin: 0px;
+	padding: 0px;
+	color: #fff;
+}
+.home-get {
+	background-color: #fff;
+	padding: 15px 47px;
+	color: #000;
+	font-size: 20px;
+	line-height: 60px;
+}
+.offer-design {
+	margin-bottom: 73px;
+}
+.plot:hover {
+	box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19) !important;
+	cursor: pointer;
+}
+.plot img:hover {
+	transition: transform .5s ease;
+}
